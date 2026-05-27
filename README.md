@@ -3,7 +3,7 @@
 A full-stack expense tracking app with category-wise summary and analytics.
 
 ## Live URLs
-- Frontend: frontend-production-e545.up.railway.app
+- Frontend: frontend-production-a81f.up.railway.app
 - Backend API: dhruvikaps-production.up.railway.app
 
 ## Features
