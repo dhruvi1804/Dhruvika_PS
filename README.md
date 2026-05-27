@@ -15,7 +15,7 @@ A full-stack expense tracking app with category-wise summary and analytics.
 ## Tech Stack
 - **Backend:** Python, FastAPI, SQLite
 - **Frontend:** HTML, CSS, JavaScript, Chart.js
-- **Deployment:** Render (backend), Vercel (frontend)
+- **Deployment:** Railway (for both backend and frontend)
 
 ## Run Locally
 
