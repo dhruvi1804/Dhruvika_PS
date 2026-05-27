@@ -3,8 +3,8 @@
 A full-stack expense tracking app with category-wise summary and analytics.
 
 ## Live URLs
-- Frontend: [add your Vercel URL here]
-- Backend API: [add your Render URL here]
+- Frontend: frontend-production-e545.up.railway.app
+- Backend API: dhruvikaps-production.up.railway.app
 
 ## Features
 - Add expenses with category, amount, date, payment method
